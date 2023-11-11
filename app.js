@@ -5,4 +5,5 @@ const foo = () => {
     console.log('foo');
 }
 foo();
+//invoking the function
 
