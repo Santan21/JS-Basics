@@ -25,3 +25,8 @@ let sixthVariable = 9
 !(sixthVariable) === 9
 // this will return a boolean (false) result. ! means "not", 
 // this makes it a a false statement as the values of the variables are equal
+
+letseventhVariable = 9
+seventhVariable !== 9
+//this will return a boolean (false) result.  
+// ! means "not", and since the values of the variables are same, 'false' is returned
