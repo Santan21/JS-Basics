@@ -2,5 +2,5 @@
  let myVariable = 'Leslie';
 console.log(myVariable);
 
-//experimenting arrays
+//experimenting data types that can be stored in variables
 let newVariable = [1, 10, 'Bob', 'Jessie']
