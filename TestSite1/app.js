@@ -18,4 +18,5 @@ console.log(fourthVariable);
 //testing strict equality between variables
 letsixthvariable = 4
 sixthVariable == 3
-// this will return a boolean (false) result
+// this will return a boolean (false) result. 
+// == tests if too data types or values are equal and returns a boolean
