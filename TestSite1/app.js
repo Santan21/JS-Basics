@@ -23,5 +23,5 @@ fifthVariable == 3
 
 let sixthVariable = 9
 !(sixthVariable) === 9
-// this will return a boolean (false) result. ! means "not equal to", 
+// this will return a boolean (false) result. ! means "not", 
 // this makes it a a false statement as the values of the variables are equal
