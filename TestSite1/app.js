@@ -8,3 +8,9 @@ let nextVariable = true;
 let firstVariable = document.querySelectorAll('h1')
 let secondVariable = 'Leslie';
 
+//addition of two numbers
+let thirdVariable = 6 + 9;
+console.log(thirdVariable);
+
+let fourthVariable = 'Hello' + 'world';
+console.log(fourthVariable);
