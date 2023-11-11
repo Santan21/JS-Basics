@@ -14,3 +14,8 @@ console.log(thirdVariable);
 
 let fourthVariable = 'Hello' + 'world';
 console.log(fourthVariable);
+
+//testing strict equality between variables
+letsixthvariable = 4
+sixthVariable == 3
+// this will return a boolean (false) result
