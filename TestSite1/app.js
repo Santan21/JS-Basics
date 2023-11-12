@@ -30,3 +30,15 @@ letseventhVariable = 9
 seventhVariable !== 9
 //this will return a boolean (false) result.  
 // ! means "not", and since the values of the variables are same, 'false' is returned
+
+//conditionals in JS
+let iceCream = 'pinkberry'
+if (iceCream === 'pinkberry') {
+    alert ('Yes! this is it');
+}
+else {
+    alert ('No! this is not it');
+}
+//The expression inside the if () is the test. This uses the strict equality operator (as described above) to compare the variable iceCream with the string chocolate to see if the two are equal. 
+//If this comparison returns true, the first block of code runs. 
+//If the comparison is not true, the second block of code—after the else statement—runs instead.
