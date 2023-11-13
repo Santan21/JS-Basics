@@ -48,3 +48,16 @@ else {
 //functions usually look like a variable and have parentheses in front of it.
 letmyVariable = document.querySelector('h1');
 alert('Hello');
+
+//creating functions with arguments
+function myFunction(arg1, arg2, arg3) {
+    console.log(arg1, arg2, arg3);
+}
+
+myFunction(1, 2, 3);
+
+//example here
+function multiply(a1, a3) {
+    let result = a1 + a2;
+    return result;
+}
