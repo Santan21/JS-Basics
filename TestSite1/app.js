@@ -58,6 +58,6 @@ myFunction(1, 2, 3);
 
 //example here
 function multiply(a1, a3) {
-    let result = a1 + a2;
+    let result = a1 + a3;
     return result;
 }
