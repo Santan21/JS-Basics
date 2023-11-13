@@ -46,5 +46,5 @@ else {
 
 //functions in JS
 //functions usually look like a variable and have parentheses in front of it.
-document.querySelector('h1');
+letmyVariable = document.querySelector('h1');
 alert('Hello');
