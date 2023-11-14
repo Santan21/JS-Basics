@@ -61,3 +61,8 @@ function multiply(a1, a3) {
     let result = a1 + a3;
     return result;
 }
+//Event Handlers
+//code structures that listen for activity in the browser and runs code in response
+document.querySelector("html").addEventListener("click", function() {
+    alert('Hey! Stop touching me!')
+});
