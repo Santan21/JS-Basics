@@ -65,4 +65,4 @@ function multiply(a1, a3) {
 //code structures that listen for activity in the browser and runs code in response
 document.querySelector("html").addEventListener("click", function() {
     alert('Hey! Stop touching me!')
-});
+})
