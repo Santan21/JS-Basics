@@ -71,3 +71,5 @@ document.querySelector("html").addEventListener("click", function() {
 document.querySelector("html").addEventListener("click", () => {
     alert('Hey! Stop touching me!')
 });
+
+//DOM API features
