@@ -75,8 +75,10 @@ document.querySelector("html").addEventListener("click", () => {
 //DOM API features
 const myImage = document.querySelector("img");
 myImage.onclick = () => {
-  const mySrc = image.getAttribute("src");
+  const mySrc = myImage.getAttribute("src");
+ if (mySrc === "Asset/sweden.JPG") {
+    myImage.setAttribute("src", "Asset/sweden2.png");}
+ else {
+  myImage.setAttribute("src", "Asset/sweden-icon.png");
 }
-if (mySrc === "images/leslie.png");  {
-    
-} 
+};
