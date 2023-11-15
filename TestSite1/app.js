@@ -77,3 +77,6 @@ const myImage = document.querySelector("img");
 myImage.onclick = () => {
   const mySrc = image.getAttribute("src");
 }
+if (mySrc === "images/leslie.png");  {
+    
+} 
