@@ -82,3 +82,4 @@ myImage.onclick = () => {
   myImage.setAttribute("src", "Asset/sweden-icon.png");
 }
 };
+
